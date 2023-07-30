@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">AD- Test Camera</string>
+    <string name="expression_msg">Your Expression</string>
+    <string name="welcome_register_msg">Welcome to Fun Learning! You have been successfully registered.</string>
+    //ERRORS
+    <string name="NO_INTERNET_ERR">Please ensure that you are connected to the internet.</string>
+    <string name="GENERIC_ERR">An error has occurred, please try again.</string>
+    <string name="SERVER_ERR">A server error has occurred, please try again later.</string>
+    <string name="SERVER_DOWN_ERR">The server is currently busy or unavailable, please try again later.</string>
+
+    <string name="LOGIN_ERR">Wrong username/password. Please try again.</string>
+    <string name="LOGINBLANK_ERR">Username/password cannot be empty.</string>
+    <string name="PASSWORD_MISMATCH_ERR">Passwords do not match.</string>
+    <string name="EXPRESSION_ERR">Unable to identify expression, please try again.</string>
+</resources>
